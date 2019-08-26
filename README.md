@@ -1,2 +1,2 @@
 # html-css
-HTML &amp; CSS
+В этом гите я храню рабочие файлы для изучения HTML &amp; CSS.
